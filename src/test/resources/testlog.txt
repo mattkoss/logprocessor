@@ -1,0 +1,4 @@
+{"id": "event1", "state": "STARTED", "type": "APPLICATION_LOG", "host": "12345", "timestamp": 1491377495216}
+{"id": "event2", "state": "FINISHED", "type": "APPLICATION_LOG", "host": "12345", "timestamp": 1491377495213}
+{"id": "event1", "state": "FINISHED", "type": "APPLICATION_LOG", "host": "12345", "timestamp": 1491377495250}
+{"id": "event2", "state": "STARTED", "type": "APPLICATION_LOG", "host": "12345", "timestamp": 1491377490000}
